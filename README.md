@@ -55,7 +55,7 @@ The models were evaluated using:
 - Random Forest performed better than Logistic Regression
 
 ## 📁 Project Files
-- `Custumer Churn Prediction.ipynb` – Complete notebook containing EDA, preprocessing, model training, and evaluation
+- ![image alt](https://github.com/rishu8587/Customer-Churn-Prediction---Machine-Learning/blob/2a48274fb8f92c1d9799259dba22360567e33473/Custumer%20Churn%20Prediction.ipynb)
 
 ## ✅ Conclusion
 This project demonstrates practical application of **machine learning
